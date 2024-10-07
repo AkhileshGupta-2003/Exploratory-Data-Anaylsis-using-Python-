@@ -31,7 +31,7 @@ The dataset contains sales records from a superstore, including features like:
 - **Category and Sub-Category:** The type of products sold
 - **Sales, Quantity, Discount, Profit:** Sales metrics for each order
 
-> Note: The dataset is assumed to be in a CSV format (e.g., `superstore_sales.csv`), but it can be modified according to the source.
+> Note: The dataset is assumed to be in a CSV format, but it can be modified according to the source.
 
 ## Project Structure
 
