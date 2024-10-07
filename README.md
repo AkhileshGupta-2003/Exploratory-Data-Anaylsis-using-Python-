@@ -65,18 +65,18 @@ The EDA is conducted in multiple phases:
    - Distribution plots and summary statistics.
 
 3. **Bivariate and Multivariate Analysis:**
-   - Relationships between features (e.g., Sales vs. Profit, Discount vs. Profit).
+   - Relationships between features (e.g., Sales vs. Cateogory, Sales  vs. Region).
    - Correlation matrix.
    - Grouping and aggregating data for deeper insights.
 
 4. **Time Series Analysis:**
-   - Investigating sales trends over time (if temporal data is available).
+   - Investigating sales trends over time.
 
 5. **Segmented Analysis:**
    - Analysis of customer segments, regions, and product categories.
 
 6. **Visualization:**
-   - Bar plots, histograms, scatter plots, and heatmaps for insightful visualizations.
+   -Pie charts, bar charts 
 
 ## Key Insights
 
@@ -102,9 +102,7 @@ Some of the potential insights that can be obtained through this analysis are:
 - Jupyter Notebook
 - pandas
 - numpy
-- seaborn
 - matplotlib
-- scikit-learn (optional for advanced analysis)
 
 To install dependencies, run:
 ```bash
@@ -121,10 +119,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a new Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This README provides all the necessary information to understand and run the EDA project on a superstore dataset.
